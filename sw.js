@@ -1,7 +1,7 @@
 // SmartLearn offline cache (service worker). Generated into dist/sw.js at build time with a fresh VERSION.
 // The whole app is one HTML file, so caching it (plus the manifest and icons) makes the app work offline,
 // including when added to an iPad home screen.
-const VERSION = '084fda9aaea7';
+const VERSION = 'cf09e080ae64';
 const CACHE = `smartlearn-${VERSION}`;
 const FILES = [
   './',
